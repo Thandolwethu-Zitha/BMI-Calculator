@@ -70,7 +70,7 @@ def recommendations(wclass):
                     "by altering your diet and daily habits? , Yes or No (Case Sensitive) ")
         if rec == "Yes":
             print("Making an effort to find out about safe and healthy weight loss methods is already a step in the "
-                  "right direction" +
+                  "right direction. " +
                   "Ah look at you already getting your steps in!")
         else:
             print("That's okay! When the time comes and you're to improve your health hit me up!")
